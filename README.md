@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Juan Reyes 👋
 
-<!--
-**reyyees/reyyees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of Burgos, currently completing an Erasmus exchange in Poland.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, backend development and learning how real-world technology projects are built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 Computer Engineering student
+- 🇪🇸 Based in Burgos, Spain
+- 🇵🇱 Erasmus student in Poland
+- 💻 Interested in backend development, software engineering and AI
+- 🔎 Currently looking for internship opportunities
+
+## Technologies
+
+- Python
+- Java
+- C
+- SQL
+- Linux
+- Git
+
+## Currently learning
+
+- Backend development
+- Data Science
+- APIs
+- Databases
+- Clean code
+- Software engineering best practices
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/juan-reyes-barrios
