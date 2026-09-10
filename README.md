@@ -8,7 +8,6 @@ I'm interested in software engineering, backend development and learning how rea
 
 - 🎓 Computer Engineering student
 - 🇪🇸 Based in Burgos, Spain
-- 🇵🇱 Erasmus student in Poland
 - 💻 Interested in backend development, software engineering and AI
 - 🔎 Currently looking for internship opportunities
 
